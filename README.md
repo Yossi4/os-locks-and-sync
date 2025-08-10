@@ -35,4 +35,3 @@ Each task directory contains the `.c` and `.h` files for the implementation, exc
 - Compile each task separately with gcc using C23 standard, e.g.:  
   ```bash
   gcc -std=c23 -o task1/task1 task1/tas_semaphore.c
-```
