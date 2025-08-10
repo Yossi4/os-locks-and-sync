@@ -36,4 +36,3 @@ Each task directory contains the `.c` and `.h` files for the implementation, exc
   ```bash
   gcc -std=c23 -o task1/task1 task1/tas_semaphore.c
 ```
----
